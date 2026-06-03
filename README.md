@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ruan Mailom, tenho 17 anos e sou natural de Pederneiras sp. estou cursando no ensino medio atualmente, E estudo sobre liguangens atualmente tenho dominancia em JS Python e linguagens de marcação Html css, e estou estudando sobre TY React PhP, estudo para trabalhar com o que eu sonho a area de programador me fascina muito e espero trabalhar com isso quando eu tiver a oportunidade.
+Me chamo Ruan Mailom, Tenho 17 anos e sou natural de Pederneiras sp, Estou cursando no ensino medio atualmente, E estudo sobre liguangens de programação, Tenho dominancia em JS Python e linguagens de marcação Html css, E estou estudando sobre TY React PhP, Estudo para trabalhar com o que eu sonho, A area de programador me fascina muito e espero trabalhar com isso quando eu tiver a oportunidade.
 
 <p align="left">
     <a href="https://github.com/RuanMailonG2?tab=repositories&sort=stargazers">
