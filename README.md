@@ -5,14 +5,14 @@
 Me chamo Ruan Mailom, tenho 17 anos e sou natural de Pederneiras sp. estou cursando no ensino medio atualmente, E estudo sobre liguangens atualmente tenho dominancia em JS Python e linguagens de marcação Html css, e estou estudando sobre TY React PhP, estudo para trabalhar com o que eu sonho a area de programador me fascina muito e espero trabalhar com isso quando eu tiver a oportunidade.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/RuanMailonG2?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/RuanMailonG2?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
